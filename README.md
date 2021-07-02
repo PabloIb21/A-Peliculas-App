@@ -1,4 +1,4 @@
-# SpotiApp
+# PeliculasApp
 
 _Proyecto de películas usando el API de TMDb en Angular.y_
 
