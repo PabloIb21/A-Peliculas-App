@@ -1,6 +1,6 @@
 # SpotiApp
 
-_Proyecto de una app que consume el API de Spotify_
+_Proyecto de películas usando el API de TMDb en Angular.y_
 
 ## Instalación 🔧
 
