@@ -1,6 +1,6 @@
 # PeliculasApp
 
-_Proyecto de películas usando el API de TMDb en Angular.y_
+_Proyecto de películas usando el API de TMDb en Angular_
 
 ## Instalación 🔧
 
